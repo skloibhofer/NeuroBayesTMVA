@@ -4,7 +4,7 @@
 #include "TString.h"
 #include "TFile.h"
 #include "TH1F.h"
-#include "headers/load_histos.h"
+#include "work_scripts/load_histos.h"
 #include "TAMS/TAMS.h"
 
 using namespace std;

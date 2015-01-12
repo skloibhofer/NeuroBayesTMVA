@@ -9,7 +9,7 @@
 #include "TGraphAsymmErrors.h"
 
 // own headers
-#include "headers/load_histos.h"
+#include "work_scripts/load_histos.h"
 //#include "headers/plot_sb.h"
 //#include "TAMS/TAMS.h"
 
